@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Next.js-Dashboard/FileContentIndex/*
+.vs/Next.js-Dashboard/v17/.wsuo
+.vs/nextjs-dashboard/FileContentIndex/*
+.vs/nextjs-dashboard/v17/.wsuo
